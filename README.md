@@ -1,6 +1,6 @@
 # FNet
 
-FNet is a neural network designed for intensity based separation of overlapped transparent objects from time sequence images. It was developed to analyze Amyliod Beta fibril growth, but can be used to seperate any arbitrary objects.
+FNet is a neural network designed for intensity based separation of overlapped transparent objects from time sequence images. It was developed to analyze Amyloid Beta fibril growth, but can be used to separate any arbitrary objects.
 
 ## Dependencies
 * Python 3.6+
