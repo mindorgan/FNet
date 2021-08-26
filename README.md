@@ -28,6 +28,6 @@ input_shape = (img_width, img_height, max_objects + 2)
 
 model=FNet(base_feature, input_shape)
 ```
-You can use this model instance for training and prediction using TensorFlow.
+You can use this model instance for training and prediction using TensorFlow. More detailed examples of training and analysis are provided by two Jupyter notebooks: FNet-training.ipynb and FNet-DFgeneration.ipynb with a python environment specified by environment.yml.
 
 [1] T. Falk et al., U-Net: deep learning for cell counting, detection, and morphometry. Nat. Methods. 16, 67–70 (2019).
