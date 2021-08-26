@@ -1,0 +1,25 @@
+name: tf-env-Ab
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda
+  - python
+  - numpy
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - matplotlib
+  - pandas
+  - seaborn
+  - pillow
+  - jupyterlab-git
+  - nodejs
+  - jupyterlab
+  - jupyter
+  - nb_conda
+  - tensorflow-gpu=1.14
+  - gast=0.2.2
+  - pip
+#  - pip:
+#    - tensorflow-gpu==2.0
